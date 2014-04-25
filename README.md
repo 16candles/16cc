@@ -40,4 +40,4 @@ Additional Projects
 - The VM: [https://github.com/16candles/16c]
 - Compiler written in Haskell (supports when/unless):
   [h16cc](https://github.com/llllllllll/16candles_haskell)
-- Debugger:
+- Debugger: [16db](https://github.com/16candles/16db)
