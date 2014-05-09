@@ -18,7 +18,7 @@
 #ifndef C16_LEXER_H
 #define C16_LEXER_H
 
-#include "common/arch.h"
+#include "../16common/common/arch.h"
 #include "verbose.h"
 
 #include <string.h>

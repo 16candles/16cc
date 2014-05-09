@@ -18,7 +18,7 @@
 #ifndef C16_COMPILER_H
 #define C16_COMPILER_H
 
-#include "common/arch.h"
+#include "../16common/common/arch.h"
 #include "lexer.h"
 #include "verbose.h"
 

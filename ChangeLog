@@ -189,3 +189,6 @@
 
 2014-04-24 Joe Jevik <joejev@gmail.com>
 	* All: Split the project, new entries will only reflect this repo.
+
+2014-05-08 Joe Jevnik <joejev@gmail.com>
+	* src/common/arch.h: moved to 16common/common/arch.h
